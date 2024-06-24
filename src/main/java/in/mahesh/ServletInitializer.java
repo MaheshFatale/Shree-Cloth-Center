@@ -1,4 +1,4 @@
-package in.ashokit;
+package in.mahesh;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

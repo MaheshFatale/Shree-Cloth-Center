@@ -1,4 +1,4 @@
-package in.ashokit.controller;
+package in.mahesh.controller;
 
 //import java.util.List;
 //import java.util.Optional;
@@ -14,9 +14,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import org.springframework.web.bind.annotation.RequestParam;
 
-import in.ashokit.entity.Product;
-import in.ashokit.repository.ProductRepository;
-//import in.ashokit.service.ProductService;
+import in.mahesh.entity.Product;
+import in.mahesh.repository.ProductRepository;
 
 @Controller
 public class ProductController {
